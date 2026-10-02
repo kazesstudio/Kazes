@@ -1,0 +1,1 @@
+<meta property="og:image:alt" content="KAZES.studio — a San Francisco engineering startup delivering forward-deployed engineering, AI systems, and hardware." />
